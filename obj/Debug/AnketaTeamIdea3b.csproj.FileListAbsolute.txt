@@ -1,0 +1,7 @@
+H:\GVS Projects\AnketaTeamIdea3b\bin\Debug\AnketaTeamIdea3b.exe.config
+H:\GVS Projects\AnketaTeamIdea3b\bin\Debug\AnketaTeamIdea3b.exe
+H:\GVS Projects\AnketaTeamIdea3b\bin\Debug\AnketaTeamIdea3b.pdb
+H:\GVS Projects\AnketaTeamIdea3b\obj\Debug\AnketaTeamIdea3b.csprojAssemblyReference.cache
+H:\GVS Projects\AnketaTeamIdea3b\obj\Debug\AnketaTeamIdea3b.csproj.CoreCompileInputs.cache
+H:\GVS Projects\AnketaTeamIdea3b\obj\Debug\AnketaTeamIdea3b.exe
+H:\GVS Projects\AnketaTeamIdea3b\obj\Debug\AnketaTeamIdea3b.pdb

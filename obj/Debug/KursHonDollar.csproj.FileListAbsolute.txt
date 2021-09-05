@@ -1,0 +1,7 @@
+H:\GVS Projects\KursHonDollar\bin\Debug\AnketaTeamIdea3b.exe.config
+H:\GVS Projects\KursHonDollar\bin\Debug\AnketaTeamIdea3b.exe
+H:\GVS Projects\KursHonDollar\bin\Debug\AnketaTeamIdea3b.pdb
+H:\GVS Projects\KursHonDollar\obj\Debug\KursHonDollar.csprojAssemblyReference.cache
+H:\GVS Projects\KursHonDollar\obj\Debug\KursHonDollar.csproj.CoreCompileInputs.cache
+H:\GVS Projects\KursHonDollar\obj\Debug\AnketaTeamIdea3b.exe
+H:\GVS Projects\KursHonDollar\obj\Debug\AnketaTeamIdea3b.pdb
